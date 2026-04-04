@@ -4,6 +4,9 @@ Native Rust based Knowledge Database with bespoke, real-time Visual outputs  mul
 
 Outputs in D3.js ThreeJS/ Unity,  Unreal engine, x3d.io
 
+
+
+
 ![OIG - 2023-12-21T035901 810](https://github.com/user-attachments/assets/4326919f-8595-4215-b053-ab6269d38e38)
 
 
@@ -49,6 +52,8 @@ __________________________________________________________________________
 
     Know your scales. Choose your tools. 
 
+
+![Medallion Architecture](./medallion_architecture.svg)
 
 
 
