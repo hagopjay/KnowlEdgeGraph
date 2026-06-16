@@ -16,6 +16,9 @@ Outputs in D3.js ThreeJS/ Unity,  Unreal engine, x3d.io
 <img width="1133" height="747" alt="image (9)" src="https://github.com/user-attachments/assets/c26f72c8-1f05-459e-8a07-80abd06b9f9c" />
 
 
+# Google introduces the Open Knowledge Framework -
+https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/
+
 
 __________________________________________________________________________
 # Airline Policies Graph Generation
